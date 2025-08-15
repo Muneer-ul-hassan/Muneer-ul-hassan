@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered automation projects, including multi-agent systems, computer vision solutions, and real-time workflow tools.<br><br>👯 I’m looking to collaborate on innovative AI, robotics, and automation projects that push boundaries and create real-world impact.<br><br>🤝 I’m looking for help with scaling AI-based solutions into physical robotics applications and securing funding for prototypes.<br><br>🌱 I’m currently learning advanced LLM fine-tuning, edge AI deployment, and 3D interactive web experiences.<br><br>💬 Ask me about AI integration, automation workflows, computer vision, SEO strategy, and rapid prototyping.<br><br>⚡ Fun fact: I can go from brainstorming a crazy AI idea to building a working proof-of-concept before most people finish their coffee. ☕🤖
+🔭 I’m currently working on computer vision solutions, AI-powered automation projects, including multi-agent systems and real-time workflow tools.<br><br>👯 I’m looking to collaborate on innovative AI, robotics, and automation projects that push boundaries and create real-world impact.<br><br>🤝 I’m looking for help with scaling AI-based solutions into physical robotics applications and securing funding for prototypes.<br><br>🌱 I’m currently learning advanced LLM fine-tuning, edge AI deployment, and 3D interactive web experiences.<br><br>💬 Ask me about AI integration, automation workflows, computer vision, SEO strategy, and rapid prototyping.<br><br>⚡ Fun fact: I can go from brainstorming a crazy AI idea to building a working proof-of-concept before most people finish their coffee. ☕🤖
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Muneer-ul-hassan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Muneer-ul-hassan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneer-ul-hassan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muneer-ul-hassan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
