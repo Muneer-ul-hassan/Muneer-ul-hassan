@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on computer vision solutions, AI-powered automation projects, including multi-agent systems and real-time workflow tools.<br><br>👯 I’m looking to collaborate on innovative AI, robotics, and automation projects that push boundaries and create real-world impact.<br><br>🤝 I’m looking for help with scaling AI-based solutions into physical robotics applications and securing funding for prototypes.<br><br>🌱 I’m currently learning advanced LLM fine-tuning, edge AI deployment, and 3D interactive web experiences.<br><br>💬 Ask me about AI integration, automation workflows, computer vision, SEO strategy, and rapid prototyping.<br><br>⚡ Fun fact: I can go from brainstorming a crazy AI idea to building a working proof-of-concept before most people finish their coffee. ☕🤖
 ## 🌐 Website :
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://muneerulhassan.site)
+[![MUNEER](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://muneerulhassan.site)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_muneersyedd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muneer-ul-hassan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Muneerulhassan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mystery_my1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muneerulhassan404@gmail.com) 
